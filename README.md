@@ -1,2 +1,2 @@
 # fantastic-waffle
-Javascript Introduction
+Introduction to Javascript
